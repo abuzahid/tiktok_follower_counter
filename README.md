@@ -2,11 +2,11 @@
 This Python script gets the number of followers for a TikTok account by scraping the web page of the account using BeautifulSoup and requests libraries. The number of followers is then displayed in a GUI created using the tkinter library.
 
 ## Dependencies
-Python 3.x
-requests==2.26.0
-beautifulsoup4==4.10.0
-tk==0.1.0
-You can install the dependencies by running<\br> 
+Python 3.x  
+requests==2.26.0  
+beautifulsoup4==4.10.0  
+tk==0.1.0    
+You can install the dependencies by running  
 pip install -r requirements.txt.
 
 ## Usage
