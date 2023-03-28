@@ -10,11 +10,12 @@ You can install the dependencies by running
 pip install -r requirements.txt.
 
 ## Usage
-Clone the repository or download the code.
-Install the dependencies using the command pip install -r requirements.txt.
-Run the script using the command python tiktok_followers.py.
-Enter the TikTok username in the input field and click the "Get Followers" button to display the number of followers.
-Notes
+Clone the repository or download the code.  
+Install the dependencies using the command `pip install -r requirements.txt`.
+Run the script using the command python `tiktok_followers.py`.
+*If you do not want to know the code and just want to run, double click on `tiktok_followers.exe`*
+Enter the TikTok username in the input field and click the "Get Followers" button to display the number of followers.  
+##Notes
 The script works only if the TikTok account is public.
 If the TikTok account does not exist or is private, the script will display an error message.
 The GUI window can be closed by clicking the close button or pressing the "Esc" key.
