@@ -6,7 +6,7 @@ Python 3.x
 requests==2.26.0
 beautifulsoup4==4.10.0
 tk==0.1.0
-You can install the dependencies by running 
+You can install the dependencies by running<\br> 
 pip install -r requirements.txt.
 
 ## Usage
